@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\build\\intermediates\\res\\merged\\release\\menu\\dictionary_list.xml",
+        "source": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\src\\main\\res\\menu\\dictionary_list.xml"
+    },
+    {
+        "merged": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\build\\intermediates\\res\\merged\\release\\menu\\word_definition_detail.xml",
+        "source": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\src\\main\\res\\menu\\word_definition_detail.xml"
+    },
+    {
+        "merged": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\IDB R28 J2EE\\Android Application Development\\Project of Android\\CSEDictionary\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:11:5-37:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:13:9-41
+	android:theme
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.kamaldictionary.MainActivity
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:18:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.kamaldictionary.DictionaryListActivity
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:29:13-67
+	android:name
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:28:13-70
+activity#com.kamaldictionary.WordDefinitionDetailActivity
+ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from D:\IDB R28 J2EE\Android Application Development\Project of Android\CSEDictionary\app\src\main\AndroidManifest.xml:33:13-76
